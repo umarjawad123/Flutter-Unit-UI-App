@@ -91,7 +91,7 @@ lib/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/flutter-unit-ui-app.git
+git clone https://github.com/umar763465/flutter-unit-ui-app.git
 
 Navigate to project folder:
 cd flutter-unit-ui-app
@@ -105,11 +105,12 @@ flutter run
 
 ## 🎯 Future Improvements
 
-Add backend integration
-Add authentication system
-Connect units with real data
-Improve animations and transitions
-Add state management (Provider / Bloc)
+- Add backend integration
+- Add authentication system
+- Connect units with real data
+- Improve animations and transitions
+- Add state management (Provider / Bloc)
+---
 ## 👨‍💻 Author
 
 Umar
